@@ -1,5 +1,5 @@
 # Site
-repository: veronikahristozova/veronika-atanasova
+repository: veronikahristozova/veronikahristozova.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -48,15 +48,15 @@ linkedin_username: veronika-a-969949113
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Veronika and I'm a senior iOS Developer and Team Lead. I have worked at a number of companies gaining teamwork and leadership skills.
-Beyond shipping apps, I’m passionate about software engineering as a whole - from brainstorming ideas to delivering software that is actually used by someone.
-I love following Apple events, and <mark>WWDC</mark> is one of my favourites - every session feels like a peek at where the platform is headed next.
+  Beyond shipping apps, I’m passionate about software engineering as a whole - from brainstorming ideas to delivering software that is actually used by someone.
+  I love following Apple events, and <mark>WWDC</mark> is one of my favourites - every session feels like a peek at where the platform is headed next.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: InaMatch: Pair Matching Game
+        title: "InaMatch: Pair Matching Game"
         link: https://apps.apple.com/bg/app/inamatch-pair-matching-game/id6770115423
         # link_text: Project Website
         additional_links:
