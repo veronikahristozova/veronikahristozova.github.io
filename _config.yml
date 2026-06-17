@@ -47,8 +47,8 @@ linkedin_username: veronika-a-969949113
 # about_title: About Me
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Veronika and I'm a senior iOS Developer and Team Lead. I have worked at a number of companies gaining teamwork and leadership skills.
-  Beyond shipping apps, I’m passionate about software engineering as a whole - from brainstorming ideas to delivering software that is actually used by someone.
+  Hi, my name's Veronika and I'm an iOS Developer and Team Lead.
+  Beyond shipping apps, I’m passionate about software engineering as a whole - from brainstorming ideas to planning and delivering software that is actually used by someone.
   I love following Apple events, and <mark>WWDC</mark> is one of my favourites - every session feels like a peek at where the platform is headed next.
 
 content:
@@ -58,7 +58,7 @@ content:
       - layout: top-middle
         title: "InaMatch: Pair Matching Game"
         link: https://apps.apple.com/bg/app/inamatch-pair-matching-game/id6770115423
-        # link_text: Project Website
+        link_text: AppStore link 🔗
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
@@ -69,32 +69,33 @@ content:
         quote: >
           This is my very first personal iOS game published on the AppStore
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>SwiftUI</mark> from Stanford University iOS course and it has since grown into a fully fledged game app. I manage its ASO and the entire AppStore publishing. I have integrated <mark>GameCenter</mark> and leaderboard.
+          I started this project as a way of learning <mark>SwiftUI</mark> from Stanford University iOS course and it has since grown into a fully fledged game app. I manage its ASO and the entire AppStore publishing, analysis and optimization. I have integrated Apple's <mark>GameCenter</mark> and leaderboard.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Tumba Solutions
-        link: tumba.solutions
+        link: https://www.tumba.solutions/
         # link_text: boringcompany.com
         sub_title: Team Lead
         caption: August 2025 - Present
         quote: >
-          Managed team of 22 iOS and Android developers. Measuring KPIs and setting team and personal goals for everyone on the team.
+          Managing team of iOS and Android developers. Measuring KPIs, setting team and personal goals for everyone on the team.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My role as team lead includes onboarding new people, communicating with clients, gathering and analyzing client feedback, translating it into Objective Key-Results, career development for teammates and direct repoting to C-level.
 
       - layout: left
         title: Tumba Solutions
-        link: tumba.solutions
+        link: https://www.tumba.solutions/
         # link_text: boringcompany.com
         sub_title: iOS Developer
-        caption: September 2019 - August 2025
+        caption: September 2019 - July 2025
         quote: >
-          I was part of the main iOS team, contributing to 
+          I was part of the main iOS team and have contributed to various iOS projects. I was leading MVP pilot test project and organizing the company's monthly Tech Talks.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            As team member of one of the largest US news publishing iOS app I have contributed to the <mark>CI/CD</mark> setup, participated in migrating the project from UIKit to SwiftUI, consuming <mark>GraphQL</mark> and RESTful APIs. <mark>SPM</mark> modularization of the project.
+            Other areas I am familiar with are: Rich Push Notifications, watchOS, Google ads, App Clips.
 
 
   - title: Education # Title for the section
@@ -105,11 +106,19 @@ content:
         caption: 2013 - 2017
         sub_title: BSc Computer Science
         quote: >
-          ?
+          All coursework completed, State examination pending
         description: | # this will include new lines to allow paragraphs
-          During my time at SU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I have compelted elective course "Mobile development" which sparked my interest in iOS development.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Mathematics High School
+        caption: 2008 - 2013
+        sub_title: Mathematics and Informatics
+        quote: >
+          Graduated with highest honors
+        description: | # this will include new lines to allow paragraphs
+          Competed in mathematics and informatics competitions.
+
 
   - title: A Little More About Me
     layout: text
