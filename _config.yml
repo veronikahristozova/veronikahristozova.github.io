@@ -59,15 +59,15 @@ content:
         title: "InaMatch: Pair Matching Game"
         link: https://apps.apple.com/bg/app/inamatch-pair-matching-game/id6770115423
         link_text: AppStore link 🔗
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is my very first personal iOS game published on the AppStore
+          Solely developed and published a native game on the AppStore.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>SwiftUI</mark> from Stanford University iOS course and it has since grown into a fully fledged game app. I manage its ASO and the entire AppStore publishing, analysis and optimization. I have integrated Apple's <mark>GameCenter</mark> and leaderboard.
 
@@ -80,10 +80,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Team Lead
         caption: August 2025 - Present
-        quote: >
-          Managing team of iOS and Android developers. Measuring KPIs, setting team and personal goals for everyone on the team.
+        # quote: >
+
         description: | # this will include new lines to allow paragraphs
+            Managing team of iOS and Android developers. Measuring KPIs, setting team and personal goals for everyone on the team.
             My role as team lead includes onboarding new people, communicating with clients, gathering and analyzing client feedback, translating it into Objective Key-Results, career development for teammates and direct repoting to C-level.
+            Hands-on development.
 
       - layout: left
         title: Tumba Solutions
@@ -91,11 +93,23 @@ content:
         # link_text: boringcompany.com
         sub_title: iOS Developer
         caption: September 2019 - July 2025
-        quote: >
-          I was part of the main iOS team and have contributed to various iOS projects. I was leading MVP pilot test project and organizing the company's monthly Tech Talks.
+        #quote: >
+
         description: | # this will include new lines to allow paragraphs
+            I was part of the main iOS team and have contributed to various iOS projects. I was leading MVP pilot test project and organizing the company's monthly Tech Talks.
             As team member of one of the largest US news publishing iOS app I have contributed to the <mark>CI/CD</mark> setup, participated in migrating the project from UIKit to SwiftUI, consuming <mark>GraphQL</mark> and RESTful APIs. <mark>SPM</mark> modularization of the project.
             Other areas I am familiar with are: Rich Push Notifications, watchOS, Google ads, App Clips.
+
+        - layout: left
+          title: Adastra Bulgaria
+          link: https://adastracorp.com
+          # link_text: boringcompany.com
+          sub_title: iOS Developer
+          caption: September 2017 - July 2019
+          #quote: >
+
+          description: | # this will include new lines to allow paragraphs
+              Worked on multiple iOS apps in the banking, shopping, online payments and gambling/lottery areas. Worked on-site with the clients in Czech Republic and China, Tianjin.
 
 
   - title: Education # Title for the section
@@ -105,17 +119,17 @@ content:
         title: Sofia University
         caption: 2013 - 2017
         sub_title: BSc Computer Science
-        quote: >
-          All coursework completed, State examination pending
+        #quote: >
+        #  All coursework completed, State examination pending
         description: | # this will include new lines to allow paragraphs
-          I have compelted elective course "Mobile development" which sparked my interest in iOS development.
+          I have completed elective course "Mobile development" which sparked my interest in iOS development. All coursework completed, State examination pending.
 
       - layout: left
         title: Mathematics High School
         caption: 2008 - 2013
         sub_title: Mathematics and Informatics
-        quote: >
-          Graduated with highest honors
+        #quote: >
+        #  Graduated with highest honors
         description: | # this will include new lines to allow paragraphs
           Competed in mathematics and informatics competitions.
 
@@ -129,7 +143,7 @@ content:
       - Gardening 🪴
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
