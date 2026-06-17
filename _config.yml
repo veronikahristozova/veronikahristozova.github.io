@@ -100,16 +100,16 @@ content:
             As team member of one of the largest US news publishing iOS app I have contributed to the <mark>CI/CD</mark> setup, participated in migrating the project from UIKit to SwiftUI, consuming <mark>GraphQL</mark> and RESTful APIs. <mark>SPM</mark> modularization of the project.
             Other areas I am familiar with are: Rich Push Notifications, watchOS, Google ads, App Clips.
 
-        - layout: left
-          title: Adastra Bulgaria
-          link: https://adastracorp.com
-          # link_text: boringcompany.com
-          sub_title: iOS Developer
-          caption: September 2017 - July 2019
-          #quote: >
+      - layout: left
+        title: Adastra Bulgaria
+        link: https://adastracorp.com
+        # link_text: boringcompany.com
+        sub_title: iOS Developer
+        caption: September 2017 - July 2019
+        #quote: >
 
-          description: | # this will include new lines to allow paragraphs
-              Worked on multiple iOS apps in the banking, shopping, online payments and gambling/lottery areas. Worked on-site with the clients in Czech Republic and China, Tianjin.
+        description: | # this will include new lines to allow paragraphs
+            Worked on multiple iOS apps in the banking, shopping, online payments and gambling/lottery areas. Worked on-site with the clients in Czech Republic and China, Tianjin.
 
 
   - title: Education # Title for the section
